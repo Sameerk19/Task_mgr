@@ -8,9 +8,9 @@ pnpm-debug.log*
 lerna-debug.log*
 
 # Node / React frontend
-frontend/node_modules/
+node_modules/
 frontend/build/
-frontend/.env
+.env
 
 # Python backend
 backend/__pycache__/
